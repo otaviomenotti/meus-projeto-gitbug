@@ -15,4 +15,4 @@
 
 - Github @otaviomenotti
 - E-mail: 00001125537619sp@al.educacao.sp.gov.br
-* Criado em: [15/04/2026]*
+*Criado em: [15/04/2026]*
